@@ -1,0 +1,20 @@
+[
+  {
+    "id": "14",
+    "name": "server1",
+    "size": "",
+    "quality": "",
+    "link_order": "1",
+    "movie_id": "14",
+    "url": "https://streamsb.net/e/cuvdn3l5417j.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

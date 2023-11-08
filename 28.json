@@ -1,0 +1,20 @@
+[
+  {
+    "id": "31",
+    "name": "Server1",
+    "size": "",
+    "quality": "",
+    "link_order": "1",
+    "movie_id": "28",
+    "url": "https://streamsb.net/e/s4ku4wm9zxce.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]
