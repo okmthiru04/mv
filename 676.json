@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1902",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "676",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/The.Fault.in.Our.Stars.2014.480p.English.Hindi.Subtitles.Themoviesflix.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1903",
+    "name": "Server 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "676",
+    "url": "https://streamsb.net/e/6qdsjw68yxem.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

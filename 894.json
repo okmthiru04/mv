@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2710",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "894",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/PDVTSKMHD%20%282022%29%20www.SkymoviesHD.Rent%20720p%20PreDvDRip%20HQDub%20Dual%20x264%20AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2711",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "894",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/PDVTSKMHD%20%282022%29%20www.SkymoviesHD.Rent%20480p%20PreDvDRip%20HQDub%20Dual%20x264%20AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1904",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "677",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/2%3A22%20%282017%29%20English%20480p%20BRRip.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1905",
+    "name": "Server 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "677",
+    "url": "https://streamsb.net/e/jxh1569ionkh.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

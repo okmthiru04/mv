@@ -1,0 +1,38 @@
+[
+  {
+    "id": "595",
+    "name": "",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "520",
+    "url": "https://streamsb.net/e/di3uot7evsbq.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1628",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "520",
+    "url": "https://dood.la/d/2esegr9b6xr0",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

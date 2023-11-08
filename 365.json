@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1483",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "365",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/1.Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_720p_Dual_Audio_BluRay_KartiKing_Movies.DigitalMaza.Org.mkv.mp4",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  },
+  {
+    "id": "8710",
+    "name": "SERVER 2",
+    "size": "",
+    "quality": "MULTI QUALITY",
+    "link_order": "2",
+    "movie_id": "365",
+    "url": "https://oneupload.to/dm8h4d2of1uc",
+    "type": "Streamhide",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  }
+]

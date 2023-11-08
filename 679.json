@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1909",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "679",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/%40MoviezzClub%20Housefull%202010%20BluRay%20Hindi%20480p%20ESub.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1910",
+    "name": "Server 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "679",
+    "url": "https://streamsb.net/e/ei78eamejk9g.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

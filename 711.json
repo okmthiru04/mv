@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2021",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "711",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/CHUPSKMHD%20%282022%29%20www.SkymoviesHD.io%20480p%20v2%20PreDvDRip%20Hindi%20x264.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2022",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "711",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/CHUPSKMHD%20%282022%29%20www.SkymoviesHD.io%20720p%20v2%20PreDvDRip%20Hindi%20x264.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

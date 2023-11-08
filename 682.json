@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1915",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "682",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/%40MoviezzClub%20Housefull%204%202019%20WebRip%20Hindi%20480p%20ESub.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1916",
+    "name": "Server 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "682",
+    "url": "https://streamsb.net/e/0uq7tklsnj3n.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

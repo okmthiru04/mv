@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1792",
+    "name": "Server 1 ",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "421",
+    "url": "https://dood.la/e/aox16k1cmatd",
+    "type": "Embed",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "00:00:00",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  },
+  {
+    "id": "6699",
+    "name": "SERVER 4",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "421",
+    "url": "https://embedwish.com/apas8ovs4t07",
+    "type": "Streamhide",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  }
+]

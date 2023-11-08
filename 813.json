@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2416",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "813",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Ted.2012.UNRATED.480p.BluRay.Hindi.English.TheMoviesflix.cx.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2417",
+    "name": "Server 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "813",
+    "url": "https://dood.la/d/hl8glco5smx7",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

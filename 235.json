@@ -1,0 +1,38 @@
+[
+  {
+    "id": "282",
+    "name": "",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "235",
+    "url": "https://streamsb.net/e/4oyocomohdha.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1321",
+    "name": "Server 1",
+    "size": "",
+    "quality": "720p",
+    "link_order": "0",
+    "movie_id": "235",
+    "url": "https://dood.la/d/1i6lznq4qdwi",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

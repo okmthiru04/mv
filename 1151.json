@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3726",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1151",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/USXHRSKMHD%20%282022%29%20www.SkymoviesHD.help%20720p%20HEVC%20UNRATED%20HDRip%20Tagalog%20x265%20ESub.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3728",
+    "name": "SERVER 3",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1151",
+    "url": "https://dood.la/d/9v1ppu3p7y3n",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

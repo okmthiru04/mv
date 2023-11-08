@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1861",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "663",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/The.Nice.Guys.2016.480p.BluRay.Hindi-English.x264-Themoviesflix.us.com.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1862",
+    "name": "Server 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "663",
+    "url": "https://streamsb.net/e/9t5ov8u0p2gt.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

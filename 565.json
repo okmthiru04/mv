@@ -1,0 +1,38 @@
+[
+  {
+    "id": "746",
+    "name": "480P - 720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "565",
+    "url": "https://streamsb.net/e/gnrrw7qijhxr.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "00:00:00",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "752",
+    "name": "Server HD",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "565",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Sita_Ramam_2022_480p_Hindi_HQ_Dub_%2B_Telugu_HQ_S_Print_x264_AAC_H.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

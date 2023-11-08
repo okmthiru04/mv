@@ -1,0 +1,38 @@
+[
+  {
+    "id": "760",
+    "name": "480p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "571",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Summer%20Ghost%20%5B480p%5D%20%5BSUB%5D%20%40Anime_Bunch.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "761",
+    "name": "1080p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "571",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Summer%20Ghost%20%5B1080p%5D%20%5BSUB%5D%20%40Anime_Bunch.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "784",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "580",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/1337xHD.Shop-Khuda%20Haafiz%20Chapter%20II%20%E2%80%93%20Agni%20Pariksha%20%282022%29%20MLSBD.Shop-Hindi%20480p.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "785",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "580",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/1337xHD.Shop-Khuda%20Haafiz%20Chapter%20II%20%E2%80%93%20Agni%20Pariksha%20%282022%29%20MLSBD.Shop-Hindi%20720p.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3431",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1065",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Hostel.2005.720p.Hindi.English.Esub.MoviesMod.org.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3430",
+    "name": "480p",
+    "size": "",
+    "quality": "",
+    "link_order": "1",
+    "movie_id": "1065",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Hostel.2005.480p.Hindi.English.Esub.MoviesMod.org.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "801",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "588",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Jagame.Thandhiram.2021.480p.WEBDL.HindiTamil.ESub.x264Btcmovies.xyz.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "802",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "588",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Jagame.Thandhiram.2021.720p.WEBDL.Hindi.5.1Tamil.x264Btcmovies.xyz.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

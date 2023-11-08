@@ -1,0 +1,38 @@
+[
+  {
+    "id": "949",
+    "name": "480p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "653",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Manje%20Bistre%202%20-%202019%20WebRip%20Punjabi%20480p%20ESub%20-%20mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "950",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "653",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Manje%20Bistre%202%20-%202019%20WebRip%20720p%20Punjabi%20AAC%20x264%20ESub%20-%20.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

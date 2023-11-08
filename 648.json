@@ -1,0 +1,38 @@
+[
+  {
+    "id": "940",
+    "name": "480p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "648",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/MLSBD.Shop-Gultoo%20(2018)%20UNCUT%20Dual%201337xHD.life%20-%20Audio%20Hindi%20ORG%20480p.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "941",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "648",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/MLSBD.Shop-Gultoo%20(2018)%20UNCUT%20Dual%201337xHD.life%20-%20Audio%20Hindi%20ORG%20720p.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

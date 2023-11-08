@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3968",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1206",
+    "url": "https://www.voot.com/movie/jai-santoshi-maa/615245",
+    "type": "Voot",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

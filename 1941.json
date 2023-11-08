@@ -1,0 +1,20 @@
+[
+  {
+    "id": "7169",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1941",
+    "url": "http://89.40.6.249:8080/235/%D2%93%CE%B1%CE%B9%D0%B2%CE%B5%D1%8Fsg%CE%B1%D1%82%D1%94.Hello.Brother.1999.Hindi.720pHDRip.mp4?hash=AgADWg",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "00:00:00",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  }
+]

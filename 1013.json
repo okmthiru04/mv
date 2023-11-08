@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3223",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1013",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Aum_Mangalam_Singlem_2022_Gujarati_480p_S_Print_Rip_x264_AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3224",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1013",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Aum_Mangalam_Singlem_2022_Gujarati_720p_S_Print_Rip_x264_AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

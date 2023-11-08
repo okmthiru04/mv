@@ -1,0 +1,38 @@
+[
+  {
+    "id": "768",
+    "name": "480p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "574",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Suryabali.3.2021.480P.Web-DL.Hindi.MoviezVerse.in.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "769",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "574",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Suryabali.3.2021.720P.Web-DL.Hindi.MoviezVerse.in.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

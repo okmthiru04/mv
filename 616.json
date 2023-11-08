@@ -1,0 +1,38 @@
+[
+  {
+    "id": "861",
+    "name": "1080P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "616",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Magic%20Mike%20XXL%20%282015%29%20%5B1080p%5D/Magic.Mike.XXL.2015.1080p.BluRay.x264.YIFY.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2495",
+    "name": "Test",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "616",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/ANAHSKMHD%20%281997%29%20UNRATED%20Www.SkymoviesHD.Sbs%20480p%20HDRip%20Dual%20Audio%20x264%20ESub.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

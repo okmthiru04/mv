@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3706",
+    "name": "SERVER MOVIESHUB",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1146",
+    "url": "https://assets-1.mypowerdisk.com/transcode_video/e897c28b6dbd7984dcf130609d6f5749/dash/25b2bbc3eea882636e350ce675d7727d.mpd",
+    "type": "Dash",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3707",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1146",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/WALVSKMHD%20%282023%29%20www.SkymoviesHD.email%20720p%20PDVDRip%20Hindi%20Clean%20x264%20AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

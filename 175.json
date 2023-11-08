@@ -1,0 +1,38 @@
+[
+  {
+    "id": "196",
+    "name": "Server 1",
+    "size": "",
+    "quality": "720P",
+    "link_order": "1",
+    "movie_id": "175",
+    "url": "https://streamsb.net/e/nsznkeo8jda5.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "197",
+    "name": "Server 2",
+    "size": "",
+    "quality": "1080P",
+    "link_order": "2",
+    "movie_id": "175",
+    "url": "https://streamsb.net/e/fa9l22xpg63t.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

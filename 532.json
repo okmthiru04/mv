@@ -1,0 +1,38 @@
+[
+  {
+    "id": "631",
+    "name": "SERVER HQ",
+    "size": "",
+    "quality": "",
+    "link_order": "-1",
+    "movie_id": "532",
+    "url": "https://streamsb.net/e/xutkllqqats0.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "632",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "532",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/DriveSharer/Jurassic.Park.III.(2001).720p.Dual.Audio.(Hin.Eng).[MoviesKiDuniya.in].mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "265",
+    "name": "",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "213",
+    "url": "https://streamsb.net/e/edn8sg3hd29h.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "14:32:08",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1305",
+    "name": "Server 1",
+    "size": "",
+    "quality": "720p",
+    "link_order": "0",
+    "movie_id": "213",
+    "url": "https://dood.la/d/kqbw74t47cob",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

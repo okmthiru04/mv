@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7468",
+    "name": "PREMIUM SERVER",
+    "size": "",
+    "quality": "",
+    "link_order": "-1",
+    "movie_id": "1981",
+    "url": "http://89.40.6.249:8080/watch/467/%40MAPOriginals%5B%40MAPOriginals%5D+PM+Narendra+Modi+%282019%29+Hindi+7.mkv?hash=AgADOg",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "1",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  },
+  {
+    "id": "7469",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1981",
+    "url": "http://89.40.6.249:8080/watch/467/%40MAPOriginals%5B%40MAPOriginals%5D+PM+Narendra+Modi+%282019%29+Hindi+7.mkv?hash=AgADOg",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  }
+]

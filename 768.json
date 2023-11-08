@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2240",
+    "name": "480p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "768",
+    "url": "https://streamsb.net/e/vpanjyjfsiw2.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2239",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "1",
+    "movie_id": "768",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Hindutva%20%282022%29%20Hindi%20720p%20HQ%20S-Print%20Rip%20x265%20HEVC%20AAC%20-%20themoviesboss.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

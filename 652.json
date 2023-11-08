@@ -1,0 +1,38 @@
+[
+  {
+    "id": "947",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "652",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Sanju.2018.720p.HDRip.themoviesflix.in/Sanju.2018.720p.HDRip.themoviesflix.in.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "00:00:00",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "948",
+    "name": "1080p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "652",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Sanju.2018.1080p.HDRip.themoviesflix.in.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

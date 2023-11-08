@@ -1,0 +1,38 @@
+[
+  {
+    "id": "711",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "555",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/CHCSKMHD%20%282019%29%20www.SkymoviesHD.nl%20720p%20HEVC%20HDRip%20Hindi%20x265%20AAC%20ESub.mkv-h264_720p.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "712",
+    "name": "SERVER 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "555",
+    "url": "https://streamsb.net/e/e3pwqj3q86sy.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

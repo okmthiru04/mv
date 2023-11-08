@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3708",
+    "name": "SERVER MOVIESHUB",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1147",
+    "url": "https://assets-1.mypowerdisk.com/transcode_video/2a16a10e2d499b2dd3ea42d5dddb445d/dash/46dad4c73af6f5625ffb5173c83e574e.mpd",
+    "type": "Dash",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3709",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1147",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Lakadbaggha%202023%20HQ%20S-Print%20720p%20x265%20HEVC%20AAC%20themoviesboss.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

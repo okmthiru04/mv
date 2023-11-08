@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3717",
+    "name": "SERVER MOVIESHUB ",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1149",
+    "url": "https://assets-1.mypowerdisk.com/transcode_video/28668bf085e2a576dc339271ea3f1bba/dash/3671204297a4557db8c356de9be60f13.mpd",
+    "type": "Dash",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3718",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1149",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Veera%20Simha%20Reddy%20%282023%29%20South%20HQ%20Hindi%20Dubbed%20Full%20Movie%20PreDVD%20720p%20-%20Filmy4Cab.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

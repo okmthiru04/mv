@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2672",
+    "name": "Server 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "882",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/R.I.P.D.2.Rise.Of.The.Damned.2022.480p.BluRay.English.MoviesMod.com.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2674",
+    "name": "Server 3",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "882",
+    "url": "https://streamsb.net/e/f9t6v7hypww7.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

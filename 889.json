@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2697",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "889",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Shivpratap%20Garudjhep%20%282022%29%20720p%20HQ%20PreDVD%20Rip%20x264%20AAC%20-CineVood.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2698",
+    "name": "1080P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "889",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Shivpratap%20Garudjhep%20%282022%29%201080p%20HQ%20PreDVD%20Rip%20x264%20AAC%20-CineVood.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

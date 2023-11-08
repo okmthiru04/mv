@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3006",
+    "name": "1080P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "961",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Mrs.Doubtfire.1993.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG%5BTGx%5D/Mrs.Doubtfire.1993.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3010",
+    "name": "SD",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "961",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Mrs%20Doubtfire%20%281993%29/Mrs.Doubtfire.1993.720p.BrRip.x264.YIFY.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

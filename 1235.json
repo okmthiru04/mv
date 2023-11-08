@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4104",
+    "name": "SERVER MOVIESHUB",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1235",
+    "url": "https://assets-1.mypowerdisk.com/transcode_video/4f7ae39ab9ca64707dc0e9da6bf79352/dash/0c056e585a88cd6e72e6323d39f986f1.mpd",
+    "type": "Dash",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "4105",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1235",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/SVSTRSKMHD%20%282023%29%20www.Movieshubapk.online.bio%20720p%20HEVC%20HQ%20S-Print%20Hindi%20x265%20AAC.mkv",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4926",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1422",
+    "url": "https://movieshub.movieshub1.workers.dev/0:/Movieshubmirrornew/SUKiSKMHD%20%282023%29%20www.Movieshubapk.online.lat%20720p%20HEVC%20UNRATED%20HDRip%20Tagalog%20x265%20ESub.mkv",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "4927",
+    "name": "SERVER 2",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1422",
+    "url": "https://streamsb.net/e/lpuva8b1smzz.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

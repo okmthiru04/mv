@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1935",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "581",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Jujutsu.K%40%21sen.0.2021.480p.BluR%40y.Du%40l-Aud%210.x264.3%24ub-K%40tm0v%21eHD.rs.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "00:00:00",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1936",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "581",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Jujutsu.Kaisen.0.2021.720p.10bit.BluRay.Dual-Audio.x265.ESub-KatmovieHD.rs.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

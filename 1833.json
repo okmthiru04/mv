@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6592",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1833",
+    "url": "https://youtu.be/n1f-FFRnJC8",
+    "type": "Youtube",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": "",
+    "drm_license_uri": ""
+  }
+]

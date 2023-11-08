@@ -1,0 +1,38 @@
+[
+  {
+    "id": "926",
+    "name": "720p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "642",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Baahubali.The.Beginning.2015.720p.HDRip.themoviesflix.in.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "927",
+    "name": "1080p",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "642",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Baahubali.The.Beginning.2015.1080p.HDRip.themoviesflix.in.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

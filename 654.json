@@ -1,0 +1,38 @@
+[
+  {
+    "id": "951",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "654",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Thiruchitrambalam_2022_New_South_HQ_Hindi_Dubbed_Full_Movie_HD_480p.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "952",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "654",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/TRCLMASKMHD%20%282022%29%20www.SkymoviesHD.Gay%20720p%20HC%20HDRip%20HQDub%20Hindi%20ESub.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

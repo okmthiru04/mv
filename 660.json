@@ -1,0 +1,38 @@
+[
+  {
+    "id": "961",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "660",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Tamasha.720p.themoviesflix.in.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "962",
+    "name": "1080P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "660",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Tamasha.1080p.themoviesflix.in.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

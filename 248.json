@@ -1,0 +1,38 @@
+[
+  {
+    "id": "298",
+    "name": "HQ",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "248",
+    "url": "https://streamsb.net/e/o4fxt637zkhb.html",
+    "type": "StreamSB",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "1332",
+    "name": "Server 1",
+    "size": "",
+    "quality": "480p",
+    "link_order": "0",
+    "movie_id": "248",
+    "url": "https://dood.la/d/r7moplmqk3xe",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3328",
+    "name": "720P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1040",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/VADHSKMHD%20%282022%29%20www.SkymoviesHD.boats%20720p%20HQ%20S-Print%20Hindi%20x264%20AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "3329",
+    "name": "480P",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1040",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/VADHSKMHD%20%282022%29%20www.SkymoviesHD.boats%20480p%20HQ%20S-Print%20Hindi%20x264%20AAC.mkv",
+    "type": "Mkv",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

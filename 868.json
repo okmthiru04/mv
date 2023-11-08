@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2617",
+    "name": "SERVER 1",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "868",
+    "url": "https://movieshub.movieshubxd02.workers.dev/0:/Movieshubmirrorold/Tarzan%20The%20Ape%20Man%20%281932%29.mp4",
+    "type": "Mp4",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "0",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  },
+  {
+    "id": "2618",
+    "name": "SERVER HD",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "868",
+    "url": "https://dood.la/d/v7fuw436l6uk",
+    "type": "DoodStream",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]

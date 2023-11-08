@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4326",
+    "name": "SERVER MOVIESHUB",
+    "size": "",
+    "quality": "",
+    "link_order": "0",
+    "movie_id": "1300",
+    "url": "https://www.voot.com/movie/sanam-bewafa/1267854",
+    "type": "Voot",
+    "status": "1",
+    "skip_available": "0",
+    "intro_start": "",
+    "intro_end": "",
+    "end_credits_marker": "0",
+    "link_type": "0",
+    "drm_uuid": null,
+    "drm_license_uri": null
+  }
+]
